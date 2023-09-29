@@ -7,6 +7,7 @@ Blue - 2 hits
 Green - 3 hits
 
 You can place the towers only on the green area (the grass).
+Except for the Spike, that needs to be on the road (gray area).
 You cant buy or change anything after the round begins.
 if 50 ballons will make it to the end you will lose.
 
